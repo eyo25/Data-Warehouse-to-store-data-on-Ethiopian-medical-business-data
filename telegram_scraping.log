@@ -1,0 +1,19 @@
+2024-06-12 14:25:16,644 - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2024-06-12 14:25:23,394 - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2024-06-12 14:25:53,695 - INFO - Phone migrated to 4
+2024-06-12 14:25:53,824 - INFO - Reconnecting to new data center 4
+2024-06-12 14:25:54,358 - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2024-06-12 14:25:54,359 - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2024-06-12 14:25:54,360 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2024-06-12 14:25:56,274 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2024-06-12 14:26:10,930 - INFO - Scraping channel: DoctorsET
+2024-06-12 14:26:11,511 - ERROR - Error scraping channel https://t.me/DoctorsET: 'MessageMediaWebPage' object is not iterable
+2024-06-12 14:26:11,727 - INFO - Scraping channel: lobelia4cosmetics
+2024-06-12 14:26:12,385 - ERROR - Error scraping channel https://t.me/lobelia4cosmetics: 'MessageMediaPhoto' object is not iterable
+2024-06-12 14:26:12,538 - INFO - Scraping channel: yetenaweg
+2024-06-12 14:26:13,668 - ERROR - Error scraping channel https://t.me/yetenaweg: 'MessageMediaPhoto' object is not iterable
+2024-06-12 14:26:13,845 - INFO - Scraping channel: EAHCI
+2024-06-12 14:26:14,846 - ERROR - Error scraping channel https://t.me/EAHCI: 'MessageMediaPhoto' object is not iterable
+2024-06-12 14:26:15,068 - ERROR - Error scraping channel CHEMED_CHANNEL_USERNAME: No user has "chemed_channel_username" as username
+2024-06-12 14:26:15,069 - INFO - Disconnecting from 149.154.167.92:443/TcpFull...
+2024-06-12 14:26:15,069 - INFO - Disconnection from 149.154.167.92:443/TcpFull complete!
