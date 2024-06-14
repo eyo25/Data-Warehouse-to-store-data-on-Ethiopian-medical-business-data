@@ -25,3 +25,10 @@ Before running the script, ensure you have the following:
    ```bash
    git clone https://github.com/yourusername/telegram-data-scraper.git
    cd telegram-data-scraper
+2. **Install dependencies**:
+   ```bash
+   pip install -r requirements.txt
+## Usage
+1. **Configure the script**:
+   Replace the placeholder values for api_id and api_hash in Data_Scraper.py with your actual Telegram API credentials.
+   Ensure the list of Telegram channels to scrape is up to date.
